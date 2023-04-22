@@ -134,13 +134,13 @@ button {
   width: 226px;
 }
 
-.button-delete__image {
+.task__delete-image {
   height: 2em;
   transform: rotateZ(45deg);
   transition: transform 200ms ease-in;
 }
 
-.button-delete__image:hover {
+.task__delete-image:hover {
   transform: rotateZ(0);
 }
 
