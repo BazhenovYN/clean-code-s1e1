@@ -58,6 +58,7 @@ button {
 
 .new-task-wrapper {
   display: flex;
+  padding: 20px 0;
 }
 
 .button {
