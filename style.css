@@ -155,11 +155,11 @@ button {
   display: none;
 }
 
-.task_editMode .task__input {
+.task_edit-mode .task__input {
   display: inline-block;
   width: 224px;
 }
 
-.task_editMode .task__label {
+.task_edit-mode .task__label {
   display: none;
 }
